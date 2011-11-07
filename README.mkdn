@@ -1,3 +1,6 @@
 revence27: An Oh My Zsh Theme
 =============================
+
 This is my zsh theme for Oh My Zshell. It evolves, of course.
+
+It is based on the theme “gallifrey”, which I picked at random, but which my eyes alighted on in the themes folder of Oh My Zsh because Dr Who.
