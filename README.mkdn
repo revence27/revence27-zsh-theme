@@ -1,0 +1,3 @@
+revence27: An Oh My Zsh Theme
+=============================
+This is my zsh theme for Oh My Zshell. It evolves, of course.
